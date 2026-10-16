@@ -7,8 +7,6 @@ Tiny GPT Lab is a follow-along Python project for understanding how GPT-style la
 The goal is not to build a useful general-purpose chatbot. It is to make the mechanics of language modeling **visible, runnable, and falsifiable**.
 
 > **Project status: planned / pre-implementation.** The architecture, tutorial, and evaluation protocol are specified, but this README does not claim that a working model, checkpoints, benchmark results, or the CLI already exist. Setup and execution instructions below are targets for the initial implementation and must be verified as milestones land.
->
-> **Naming:** This is an independent educational project in [`quaat/nanogpt`](https://github.com/quaat/nanogpt), **not** Andrej Karpathy's [nanoGPT](https://github.com/karpathy/nanoGPT). No code reuse from nanoGPT or other model implementations is planned.
 
 ## What will you learn?
 
